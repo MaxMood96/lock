@@ -102,7 +102,7 @@
     "watchify": "^4.0.0",
     "webpack": "^2.2.1",
     "webpack-core": "^0.6.8",
-    "webpack-dev-server": "^2.3.0"
+    "webpack-dev-server": "^3.11.3"
   },
   "dependencies": {
     "auth0-js": "^9.19.0",
