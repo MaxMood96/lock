@@ -101,9 +101,9 @@
     "unminified-webpack-plugin": "^1.1.1",
     "unreleased": "^0.1.0",
     "watchify": "^4.0.0",
-    "webpack": "^2.2.1",
+    "webpack": "^4.0.0",
     "webpack-core": "^0.6.8",
-    "webpack-dev-server": "^2.3.0"
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
     "auth0-js": "^9.19.0",
