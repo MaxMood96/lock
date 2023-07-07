@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@auth0/component-cdn-uploader": "^2.2.2",
-    "@google-cloud/translate": "^6.0.5",
+    "@google-cloud/translate": "^7.0.1",
     "babel-core": "^6.17.0",
     "babel-eslint": "^7.2.2",
     "babel-loader": "^6.2.10",
