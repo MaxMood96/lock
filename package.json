@@ -78,7 +78,7 @@
     "grunt-exec": "^0.4.7",
     "grunt-webpack": "^2.0.1",
     "husky": "^7.0.4",
-    "jest": "^21.2.1",
+    "jest": "^26.0.0",
     "json-beautify": "^1.0.1",
     "karma": "^6.3.20",
     "karma-babel-preprocessor": "^7.0.0",
@@ -106,7 +106,7 @@
     "webpack-dev-server": "^2.3.0"
   },
   "dependencies": {
-    "auth0-js": "^9.19.2",
+    "auth0-js": "^9.20.2",
     "auth0-password-policies": "^1.0.2",
     "blueimp-md5": "^2.19.0",
     "classnames": "^2.3.2",
