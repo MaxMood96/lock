@@ -43,7 +43,7 @@
     "@auth0/component-cdn-uploader": "^2.2.2",
     "@google-cloud/translate": "^6.0.5",
     "babel-core": "^6.17.0",
-    "babel-eslint": "^7.2.2",
+    "babel-eslint": "^10.1.0",
     "babel-loader": "^6.2.10",
     "babel-plugin-stylus-compiler": "^1.4.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
