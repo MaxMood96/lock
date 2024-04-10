@@ -55,4 +55,4 @@ jobs:
         run: npm run test:e2e
 
       - name: Upload coverage
-        uses: codecov/codecov-action@4fe8c5f003fae66aa5ebb77cfd3e7bfbbda0b6b0 # pin@3.1.5
+        uses: codecov/codecov-action@84508663e988701840491b86de86b666e8a86bed # pin@4.3.0
