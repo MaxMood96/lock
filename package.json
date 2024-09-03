@@ -1,6 +1,6 @@
 {
   "name": "auth0-lock",
-  "version": "12.4.0",
+  "version": "12.5.1",
   "description": "Auth0 Lock",
   "author": "Auth0 <support@auth0.com> (http://auth0.com)",
   "license": "MIT",
@@ -61,7 +61,7 @@
     "@babel/plugin-syntax-import-meta": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
-    "@cfaester/enzyme-adapter-react-18": "^0.7.0",
+    "@cfaester/enzyme-adapter-react-18": "^0.8.0",
     "@google-cloud/translate": "^6.0.2",
     "babel-jest": "^29.3.1",
     "babel-loader": "8.3.0",
@@ -111,7 +111,7 @@
     "puppeteer": "^10.1.0",
     "react-test-renderer": "^18.2.0",
     "sinon": "^1.15.4",
-    "stylus": "^0.62.0",
+    "stylus": "^0.63.0",
     "stylus-loader": "^3.0.2",
     "tmp": "^0.2.1",
     "unminified-webpack-plugin": "^3.0.0",
@@ -121,7 +121,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
-    "auth0-js": "^9.23.3",
+    "auth0-js": "^9.26.0",
     "auth0-password-policies": "^1.0.2",
     "blueimp-md5": "^2.19.0",
     "classnames": "^2.3.2",
