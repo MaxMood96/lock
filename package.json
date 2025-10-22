@@ -93,7 +93,7 @@
     "grunt-exec": "^0.4.6",
     "grunt-webpack": "^5.0.0",
     "husky": "^7.0.2",
-    "jest": "^29.3.1",
+    "jest": "^30.0.0",
     "jest-environment-jsdom": "^29.3.1",
     "jest-environment-jsdom-global": "^4.0.0",
     "karma": "^6.4.1",
