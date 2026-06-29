@@ -108,7 +108,7 @@
     "lint-staged": "^13.2.3",
     "mocha": "^11.5.0",
     "prettier": "^2.4.1",
-    "puppeteer": "^24.9.0",
+    "puppeteer": "^25.0.2",
     "react-test-renderer": "^18.2.0",
     "sinon": "^1.15.4",
     "stylus": "^0.64.0",
